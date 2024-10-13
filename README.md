@@ -1,7 +1,7 @@
-# ISP-Connector für D143-Decoder
+# ISP-Connector for D143-Decoder
 
 
-<img src="/Images/20241012_ispCon.JPG" alt="Bildbeschreibung" width="400"/>
+<img src="/Images/20241012_ispCon.JPG" alt="fully assembled D143_ISP connector" width="400"/>
 
 
 
